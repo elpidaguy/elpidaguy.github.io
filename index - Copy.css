@@ -17,7 +17,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:#2979FF;
+    background:rgb(255, 50, 50);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ body {
     width:50px;
     height:50px;
     border:12px solid #fff;
-    border-bottom:12px solid #2979FF;
+    border-bottom:12px solid rgb(255, 50, 50);
     border-radius:50%;
     margin:0;
 }
@@ -50,10 +50,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:#2979FF;
+    background:rgb(255, 50, 50);
 }
 .box2 {
-    background:#2979FF;
+    background:rgb(255, 50, 50);
     margin-left:-5px;
 }
 #menu {
@@ -82,7 +82,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:#2979FF;
+    color:rgb(255, 50, 50);
     font-size:70px;
     text-decoration:underline;
 }
@@ -140,15 +140,15 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:#304FFE;
+    background:rgba(255,50,50,0.9);
     cursor:pointer;
 }
 #work:hover {
-    background:#304FFE;
+    background:rgba(255,50,50,0.9);
     cursor:pointer;
 }
 #contact:hover {
-    background:#304FFE;
+    background:rgba(255,50,50,0.9);
     cursor:pointer;
 }
 #middle table {
@@ -168,13 +168,13 @@ body {
 }
 .social:hover { 
     cursor: pointer;
-    color:#2979FF;
+    color:rgb(255, 50, 50);
 }
 .container {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:#2979FF;
+    background:rgb(255, 50, 50);
     color:#fff;
     z-index:9;
     position:fixed;
@@ -228,13 +228,13 @@ body {
 }
 .btn_one:hover {
     cursor:pointer;
-    color:#2979FF;
+    color:rgb(255, 50, 50);
     background:#fff;
 }
 .btn_two {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
-    color:#2979FF;
+    color:rgb(255, 50, 50);
     background:#fff;
     border:3px solid #fff;
     padding:8px 40px;
@@ -298,7 +298,7 @@ body {
     font-weight:bold;
 }
 #footer a {
-    color:#2979FF ;
+    color:rgb(255, 50, 50) ;
 }
 #particles-js {
     position:fixed;
@@ -313,14 +313,14 @@ body {
     background: #fff; 
 }
 ::-webkit-scrollbar-thumb {
-    background: #2979FF; 
+    background: rgb(255, 50, 50); 
 }
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(255, 50, 50,0.8); 
 }
 ::selection {
 	color: #fff;
-	background: #2979FF;
+	background: rgb(255, 50, 50);
 }
 
 @media (max-width: 800px){ 
