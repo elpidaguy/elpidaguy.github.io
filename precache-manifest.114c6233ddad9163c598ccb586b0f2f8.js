@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fc11de43af3dfe7822520b73fe379c6",
+    "revision": "bf98a605f5685e7c5add32737b2fdb7d",
     "url": "/index.html"
   },
   {
-    "revision": "192c958aa225aef1c2ca",
-    "url": "/static/css/3.bc85b1b3.chunk.css"
+    "revision": "0f1f90670b545ef86598",
+    "url": "/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "205566df30e3cea7c0d7",
-    "url": "/static/css/4.5c57288c.chunk.css"
+    "revision": "7fafe0cb6d5a42b8836f",
+    "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "803c4354b072cee5905f",
-    "url": "/static/css/main.3e616846.chunk.css"
+    "revision": "96eddf3e95affc0ecd5d",
+    "url": "/static/css/main.21623afa.chunk.css"
   },
   {
     "revision": "c0ccdf3b17af682dd7d9",
@@ -24,32 +24,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4a121d9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "192c958aa225aef1c2ca",
+    "revision": "0f1f90670b545ef86598",
     "url": "/static/js/3.cd200805.chunk.js"
   },
   {
-    "revision": "205566df30e3cea7c0d7",
+    "revision": "7fafe0cb6d5a42b8836f",
     "url": "/static/js/4.262007c2.chunk.js"
   },
   {
-    "revision": "803c4354b072cee5905f",
-    "url": "/static/js/main.b59dcad5.chunk.js"
+    "revision": "96eddf3e95affc0ecd5d",
+    "url": "/static/js/main.1920916e.chunk.js"
   },
   {
-    "revision": "e9058186c3341ed6d441",
-    "url": "/static/js/runtime-main.5eea5307.js"
+    "revision": "ef60039e8f84e2c69259",
+    "url": "/static/js/runtime-main.985149fb.js"
   },
   {
-    "revision": "a3752c4bf72688b3db38d0911cf75f61",
-    "url": "/static/media/Agustina.a3752c4b.woff"
+    "revision": "21f233e19402cc4a66866a7f31191f0d",
+    "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
     "revision": "bca46740d4496753087d256ba377e67f",
     "url": "/static/media/IKSHlogo.bca46740.jpg"
   },
   {
-    "revision": "847627bffd52aab57ce2e903f144e07f",
-    "url": "/static/media/Montserrat-Regular.847627bf.ttf"
+    "revision": "ee6539921d713482b8ccd4d0d23961bb",
+    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
     "revision": "1ae63f5f294f2b961f0f1bef0ddda8ae",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sppu-logo.0e79cb47.jpg"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
     "revision": "1a409a59b70c510bffa438c492348fca",
